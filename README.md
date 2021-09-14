@@ -2,12 +2,12 @@
 
 ## Summary of steps to complete (See corresponding sections below.)
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
-- [ ] Edit this README.md file on your machine.
-- [ ] Push your changes to your GitHub repository.
-- [ ] Submit a link to this GitHub repository in Canvas.
+- [X] Fork this repository so you have your own copy to work on.
+- [X] Clone the repository on your local machine. 
+- [X] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
+- [X] Edit this README.md file on your machine.
+- [X] Push your changes to your GitHub repository.
+- [X] Submit a link to this GitHub repository in Canvas.
 
 ## 1. Fork & Clone
 
@@ -42,8 +42,8 @@
 
 |   Command   |         Result          |
 |     ---     |           ---           |
-|`python --version` in Anaconda Prompt         |(enter result here)|
-|`python --version` in regular Command Prompt  |(enter result here)|
+|`python --version` in Anaconda Prompt         |(Python 3.8.8)|
+|`python --version` in regular Command Prompt  |(Python 3.8.8)|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
